@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: นาย ธีริทธิ์ ยังมีสุข
+# STUDENT ID: 640610643
